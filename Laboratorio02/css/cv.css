@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: navy;
+    text-decoration: underline;
+}
+.gmail{
+    color: dodgerblue;
+}
+h2{
+    color: rgb(3, 3, 85);
+}
+ul{
+    background-color: cadetblue;
+    color: midnightblue;
+}
+ul li ul li{
+    color: #000;
+}
+
